@@ -1,10 +1,13 @@
 {
-    "name": "sakura-theme",
-    "displayName": "Sakura++",
-    "description": "A dark-pink Sakura theme for VSCode",
-    "version": "0.0.1",
+    "name": "themes",
+    "displayName": "Limey Theme Pack",
+    "description": "Theme pack for VSCode featuring 18 themes",
+    "version": "0.0.2",
     "publisher": "LimeyTeam",
-    "repository": {"url": "https://github.com/limeyteam/sakura-theme"},
+    "repository": {
+        "url": "https://github.com/limeyteam/themes"
+    },
+    "icon": "assets/icon128.png",
     "engines": {
         "vscode": "^1.60.0"
     },
@@ -14,9 +17,98 @@
     "contributes": {
         "themes": [
             {
-                "label": "Sakura Theme",
+                "label": "Limey Green Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/light/light/green-color-theme.json"
+            },
+            {
+                "label": "Limey Lime Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/light/light/lime-color-theme.json"
+            },
+            {
+                "label": "Limey Pink Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/light/light/pink-color-theme.json"
+            },
+            {
+                "label": "Limey Green Light Theme Lighter",
+                "uiTheme": "vs",
+                "path": "./themes/light/lighter/green-color-theme.json"
+            },
+            {
+                "label": "Limey Lime Light Theme Lighter",
+                "uiTheme": "vs",
+                "path": "./themes/light/lighter/lime-color-theme.json"
+            },
+            {
+                "label": "Limey Pink Light Theme Lighter",
+                "uiTheme": "vs",
+                "path": "./themes/light/lighter/pink-color-theme.json"
+            },
+            {
+                "label": "Limey Green Light Theme Lightest",
+                "uiTheme": "vs",
+                "path": "./themes/light/lightest/green-color-theme.json"
+            },
+            {
+                "label": "Limey Lime Light Theme Lightest",
+                "uiTheme": "vs",
+                "path": "./themes/light/lightest/lime-color-theme.json"
+            },
+            {
+                "label": "Limey Pink Light Theme Lightest",
+                "uiTheme": "vs",
+                "path": "./themes/light/lightest/pink-color-theme.json"
+            },
+
+
+            {
+                "label": "Limey Green Dark Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Sakura Theme-color-theme.json"
+                "path": "./themes/dark/dark/green-color-theme.json"
+            },
+            {
+                "label": "Limey Lime Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark/dark/lime-color-theme.json"
+            },
+            {
+                "label": "Limey Pink Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark/dark/pink-color-theme.json"
+            },
+
+            {
+                "label": "Limey Green Dark Theme Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark/darker/green-color-theme.json"
+            },
+            {
+                "label": "Limey Lime Dark Theme Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark/darker/lime-color-theme.json"
+            },
+            {
+                "label": "Limey Pink Dark Theme Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark/darker/pink-color-theme.json"
+            },
+
+            {
+                "label": "Limey Green Dark Theme Darkest",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark/darkest/green-color-theme.json"
+            },
+            {
+                "label": "Limey Lime Dark Theme Darkest",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark/darkest/lime-color-theme.json"
+            },
+            {
+                "label": "Limey Pink Dark Theme Darkest",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark/darkest/pink-color-theme.json"
             }
         ]
     }
