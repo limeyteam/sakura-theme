@@ -1,0 +1,23 @@
+{
+    "name": "sakura-theme",
+    "displayName": "Sakura++",
+    "description": "A dark-pink Sakura theme for VSCode",
+    "version": "0.0.1",
+    "publisher": "LimeyTeam",
+    "repository": {"url": "https://github.com/limeyteam/sakura-theme"},
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sakura Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sakura Theme-color-theme.json"
+            }
+        ]
+    }
+}
