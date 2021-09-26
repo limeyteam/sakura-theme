@@ -46,11 +46,11 @@ Includes the Green, Lime, and Pink theme in these colors:
 - Dark themes
     - Dark
         - Green (Limey Theme Green Dark)
-        ![Green Dark](assets/screenshots/dark/darker/green.png)
+        ![Green Dark](assets/screenshots/dark/dark/green.png)
         - Lime (Limey Theme Lime Dark)
-        ![Lime Dark](assets/screenshots/dark/darker/lime.png)
+        ![Lime Dark](assets/screenshots/dark/dark/lime.png)
         - Pink (Limey Theme Pink Dark)
-        ![Pink Dark](assets/screenshots/dark/darker/pink.png)
+        ![Pink Dark](assets/screenshots/dark/dark/pink.png)
     - Darker
         - Green (Limey Theme Green Darker)
         ![Green Darker](assets/screenshots/dark/darker/green.png)
