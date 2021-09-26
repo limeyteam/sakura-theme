@@ -4,7 +4,7 @@
 
 A light and dark color theme pack created for _Visual Studio Code_.
 
-**NOTE: If there are any issues, please [let us know](#source) if you have any down below.**
+**NOTE: If there are any issues, please [let us know at the Issues page](https://github.com/limeyteam/themes/issues/) if you have any.**
 
 ## Includes
 
